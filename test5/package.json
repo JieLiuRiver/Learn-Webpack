@@ -1,0 +1,20 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "test3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test3"
+  ],
+  "author": "heliujie",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "vue": "^2.1.8"
+  }
+}
